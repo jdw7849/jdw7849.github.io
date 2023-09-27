@@ -9,6 +9,7 @@ tags: article, nextjs, js
 
 > 요약 : 2023년 서울콘서트는 빈컵 노래를 듣기 위한 여정이었다!
 
+![404]({{site.baseurl}}/images/404.jpg)
 ## 서론
 
 ## 본론
